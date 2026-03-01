@@ -1,1 +1,1 @@
-# potato-launcher-authlib-injector
+# PotatoLauncher Authlib Injector
